@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ali Ahmed Mohamed - CV</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            background: white;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            text-align: center;
+            color: #333;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .skills, .languages {
+            list-style-type: none;
+            padding: 0;
+        }
+        .skills li, .languages li {
+            padding: 5px 0;
+        }
+        .rating {
+            color: gold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Ali Ahmed Mohamed</h1>
+        <h2>Registered Nurse</h2>
+
+        <div class="section">
+            <h3>Summary</h3>
+            <p>I am a nursing specialist with a Saudi license, holding a Bachelor's degree. I have three years of experience in the Dialysis Unit and Intensive Care Department at Nasser Institute Hospital and Sahel Salim, Jarir Medical Centre.</p>
+        </div>
+
+        <div class="section">
+            <h3>Education</h3>
+            <p><strong>Bachelor of Nursing (BN)</strong><br>
+               Faculty Of Nursing, Assiut University<br>
+               Sept 2013 – Jun 2017</p>
+        </div>
+
+        <div class="section">
+            <h3>Experience</h3>
+            <p><strong>Sahel Slem Hospital</strong> - Registered Nurse (Dialysis Unit)<br>
+               Jan 2020 – Jan 2024</p>
+            <p><strong>Nasser Institute Hospital</strong> - Registered Nurse (ICU)<br>
+               Oct 2018 – Jan 2020</p>
+            <p><strong>Assiut University Hospital</strong> - Nurse Training (ER Room, PICU)<br>
+               Sept 2017 – 2018</p>
+            <p><strong>Jarir Medical Centre</strong> - Registered Nurse (Hemodialysis)<br>
+               Mar 2024 – Continue</p>
+        </div>
+
+        <div class="section">
+            <h3>Contact</h3>
+            <p>Email: aliamerx100x@gmail.com<br>
+               Phone: 0533567182<br>
+               Address: Al Riyadh, Malaz Jarir Street</p>
+        </div>
+
+        <div class="section">
+            <h3>Skills</h3>
+            <ul class="skills">
+                <li>Communication Skills ★★★★★</li>
+                <li>Analytical Skills ★★★★★</li>
+                <li>Attention to Detail ★★★★★</li>
+                <li>Critical Thinking ★★★★★</li>
+                <li>Clinical Experience ★★★★★</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h3>Languages</h3>
+            <ul class="languages">
+                <li>English</li>
+                <li>العربية</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h3>Certifications</h3>
+            <p>Data Flow<br>
+               BLS<br>
+               ACLS</p>
+        </div>
+    </div>
+</body>
+</html>
